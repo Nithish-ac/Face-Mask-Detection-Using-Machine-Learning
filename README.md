@@ -1,2 +1,4 @@
 # Face-Mask-Detection-Using-Machine-Learning
- 
+ Abstract
+After the Coronavirus disease (COVID-19) case spread rapidly in this world, the World Health Organization (WHO) confirmed that this is a dangerous virus which can be spread from humans to humans through droplets and airborne. As for prevention, wearing a face mask is essential while going outside or meeting others. However, some irresponsible people refuse to wear face masks with so many excuses. Moreover, developing the face mask detector is very crucial in this case. This project aims to develop the face mask detector which is able to detect any kind of face mask. In order to detect the face mask, MobileNetV2 SSD(Single Shot multiBox Detector) is used which works well in detecting the object in real-time. Huge number of face images are used in this project for training the data. The experimental results have been achieved using real-time application. The real time images are tested to detect the people who wear or do not wear the face mask accurately based on the face angle.
+
